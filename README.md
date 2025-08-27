@@ -3,15 +3,13 @@
  NCR Ride Bookings Analysis 🚖
 
 ## Project Overview
-This project analyzes ride bookings data from NCR region using **Python (Pandas)** and creates a **Power BI dashboard** for insights.
+This project analyzes ride bookings data from NCR region using **Python (Pandas)** creates a  for insights.
 
 
 
 ## Steps Covered
 - Data Cleaning with Pandas
 - Exploratory Data Analysis (EDA)
-- Dashboard Creation in Power BI
-
 
 
 ## Key Insights
@@ -22,7 +20,6 @@ This project analyzes ride bookings data from NCR region using **Python (Pandas)
 
 ## Tools Used
 - **Python**: Pandas, Matplotlib, Seaborn
-- **Power BI**: Interactive dashboard
 
 
 ## How to Use
